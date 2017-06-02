@@ -1,0 +1,23 @@
+line 7: 'val' not in brackets
+
+line 8: only one '=' 
+
+line 15: 'dif' instead of def
+
+line 15: 'a b' not seperated by comma and are not in brackets
+
+line 19: missing return before B
+
+line 22: end not needed 
+
+line 32: no () after looper method
+
+line 37: no end for if loop
+
+line 50: failure message for wrong method
+
+line 51: failures spelt wrong
+
+line 55: no condition for if to be met
+
+
